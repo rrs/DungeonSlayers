@@ -1,0 +1,13 @@
+traits:
+  - ["APPRAISE", "ROG 10 (V)", "The character receives a bonus of +3 per rank when appraising the value of an object. With a successful check on MND+AU the character will perceive if an item is magic. The above bonus will apply. He may not, however, check against MND+RE (like a mage) to discern its function."]
+  - ["ARCANE EXPLOSION", "SRC 8 (III), WIZ 8 (III), ARC 12 (V)", "Once per talent rank and day the character may discharge his magical energies in an arcane explosion. The explosion forms a sphere with the mage at its center. The sphere has a fixed diameter of level/2 meters and causes undefendable damage with a check value of 10 per talent rank. The character may roll a check against MND+RE for each comrade to save him from damage. The talent “Control Explosion” may be used with “Arcane Explosion”."]
+  - ["ARMOR PROFICIENCY", "FGT 4 (V), SCO 8 (V) BMA 10 (V), CLR 10 (V)", "The character is used to wearing heavy armor and moving around in it. The armor penalty on movement rate is reduced by 0.5m per talent rank"]
+  - ["", "", ""]
+  - ["", "", ""]
+  - ["", "", ""]
+  - ["", "", ""]
+  - ["", "", ""]
+  - ["", "", ""]
+  - ["", "", ""]
+  - ["", "", ""]
+  - ["", "", ""]
